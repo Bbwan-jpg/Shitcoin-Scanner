@@ -1,8 +1,8 @@
 __pycache__/
 .venv/
+venv/
 .env
 *.pyc
-app.db
 *.db
 .DS_Store
 .streamlit/

@@ -1,3 +1,1 @@
-# projet-finance-
-# DATABASE_URL=sqlite:///app.db
-# BIRDEYE_API_KEY=32c218876aff440b8665c3a805a9307c
+# projet-finance
